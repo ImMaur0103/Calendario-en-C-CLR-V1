@@ -1,0 +1,23 @@
+﻿  stdafx.cpp
+  AssemblyInfo.cpp
+  Proyecto 2 Calendario.cpp
+c:\users\mau_l\source\repos\proyecto 2 calendario\proyecto 2 calendario\proyecto 2 calendario.cpp(97): warning C4996: 'localtime': This function or variable may be unsafe. Consider using localtime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\time.h(506): note: see declaration of 'localtime'
+c:\users\mau_l\source\repos\proyecto 2 calendario\proyecto 2 calendario\proyecto 2 calendario.cpp(309): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: see declaration of 'kbhit'
+c:\users\mau_l\source\repos\proyecto 2 calendario\proyecto 2 calendario\proyecto 2 calendario.cpp(310): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\mau_l\source\repos\proyecto 2 calendario\proyecto 2 calendario\proyecto 2 calendario.cpp(569): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: see declaration of 'kbhit'
+c:\users\mau_l\source\repos\proyecto 2 calendario\proyecto 2 calendario\proyecto 2 calendario.cpp(571): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\mau_l\source\repos\proyecto 2 calendario\proyecto 2 calendario\proyecto 2 calendario.cpp(721): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(459): note: see declaration of 'kbhit'
+c:\users\mau_l\source\repos\proyecto 2 calendario\proyecto 2 calendario\proyecto 2 calendario.cpp(723): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\conio.h(453): note: see declaration of 'getch'
+c:\users\mau_l\source\repos\proyecto 2 calendario\proyecto 2 calendario\proyecto 2 calendario.cpp(1048): warning C4996: 'strdup': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strdup. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17763.0\ucrt\string.h(536): note: see declaration of 'strdup'
+  Generating Code...
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  AssemblyInfo.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  Proyecto 2 Calendario.vcxproj -> C:\Users\mau_l\source\repos\Proyecto 2 Calendario\Debug\Proyecto 2 Calendario.exe
